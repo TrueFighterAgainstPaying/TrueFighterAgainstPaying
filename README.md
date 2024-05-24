@@ -2,7 +2,6 @@
 <h3 align="center">I'm working on various macros for Hypixel Skyblock</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/63/11/f16311fd0c32786525f471c685bc516e.gif">
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
